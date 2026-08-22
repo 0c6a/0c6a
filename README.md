@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-`Git` • `Bash` • `Python` • `Cloudflare`
 
 ---
 
@@ -38,5 +38,9 @@ I spend all my time on the internet
 
 ### / reach me
 [@envyarchive](https://discord.com) • [@portfolio](https://animosity.site)
+
+<br />
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/animosity)
 
 </div>
