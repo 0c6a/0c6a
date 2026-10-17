@@ -12,7 +12,7 @@
 
 <br />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1525864258900857054?theme=light&bg=DEF8FA&animated=true&animatedDecoration=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1525864258900857054)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1554932528932986936?theme=light&bg=DEF8FA&animated=true&animatedDecoration=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1525864258900857054)
 
 ### / technical stack
 
